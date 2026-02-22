@@ -3,5 +3,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;React+Developer;Always+Learning+%F0%9F%92%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;MERN + STACK+Developer;Always+Learning+%F0%9F%92%A1" />
 </p>
