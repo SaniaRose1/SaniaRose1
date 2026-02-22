@@ -17,4 +17,3 @@ type=waving
   &lines=Welcome+to+my+GitHub+Profile!;React+Developer;Always+Learning+%F0%9F%92%A1">
 </p>
 
-
